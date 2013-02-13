@@ -17,6 +17,8 @@ If you're feeling adventurous, add a widget.
 Or something else?
 ---------------------------------------------------------------------------
 Harold
+Alberto
+
 """, borderwidth=5)
 label.pack(expand=1)
 
